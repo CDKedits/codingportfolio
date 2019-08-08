@@ -1,0 +1,23 @@
+{
+  "name": "codingportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDKedits/CodingPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDKedits/CodingPortfolio/issues"
+  },
+  "homepage": "https://github.com/CDKedits/CodingPortfolio#readme",
+  "dependencies": {
+    "startbootstrap-freelancer": "^5.1.2"
+  }
+}
